@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className=" md:grid-cols-2 gap-4 container flex justify-center">
         {/* Aqui você pode adicionar componentes, listas ou qualquer outra funcionalidade */}
-        <div className="bg-gray-100 p-6 rounded-lg shadow-md">
+        <div className="bg-gray-100 p-6 rounded-lg shadow-md: hover:bg-[#aeeaef] ">
           <h2 className="text-xl font-semibold mb-2">Checkpoints</h2>
           <p>Verificar Notas </p>
         </div>
