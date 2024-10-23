@@ -4,10 +4,8 @@ export default function Header() {
   return (
     <header className="bg-gray-800 text-white shadow-md">
       <div className="container mx-auto p-4 flex justify-between items-center">
-        {/* Logo ou Título */}
-        <h1 className="text-3xl font-bold tracking-wide">Portfólio Estudante</h1>
+        <h1 className="text-3xl font-bold tracking-wide gradient-text gradient-text-hover">Portfólio Do Estudante</h1>
 
-        {/* Links de navegação */}
         <nav>
           <ul className="flex space-x-8">
             <li>
